@@ -1,2 +1,2 @@
 # linux-wallpapers
-Mathing wallpapers for multiple Linux Distros
+Matching wallpapers for multiple Linux Distros
