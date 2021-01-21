@@ -1,2 +1,2 @@
-# linux-wallpapers
-Matching wallpapers for multiple Linux Distros
+# wallpapers
+Matching wallpapers for multiple operating systems
