@@ -6,6 +6,7 @@ Matching wallpapers for multiple operating systems
 
 - Alpine Linux
 - Arch Linux
+- CentOS
 - Debian
 - Fedora
 - FreeBSD
@@ -16,6 +17,7 @@ Matching wallpapers for multiple operating systems
 - NixOS
 - openSUSE
 - Pop! OS
+- Red Hat
 - Ubuntu
 - Void Linux
 - Windows
